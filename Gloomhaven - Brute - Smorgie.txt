@@ -3,7 +3,8 @@
 ## XP Notes
 24+5 = 29
 29+14 = 43 (scenario 5)
-=43
+=43+4 (level 0 scenario bonus exp)
+=47 Level 2
 
 ## Gold Notes
 5G
