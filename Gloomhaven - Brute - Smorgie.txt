@@ -1,9 +1,7 @@
 # Smorgie Imbrulijorner
 
 ## XP Notes
-12
-15
-24
+24+5 = 29
 
 ## Gold Notes
 5G
