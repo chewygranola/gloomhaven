@@ -1,12 +1,18 @@
-# Smorgie Imbrulijorner
+# Smorgie Imbruglijorner
 
 ## XP Notes
+Current: 47 XP - Level 2
+
+### XP Notes History
 24+5 = 29
 29+14 = 43 (scenario 5)
 =43+4 (level 0 scenario bonus exp)
-=47 Level 2
+47 Level 2
 
 ## Gold Notes
+Current: 9G
+
+## Gold Notes History
 5G
 30G
 -30G (initial items)
