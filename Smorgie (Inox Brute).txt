@@ -3,28 +3,8 @@
 ## XP Notes
 Current: 47 XP - Level 2
 
-### XP Notes History
-24+5 = 29
-29+14 = 43 (scenario 5)
-=43+4 (level 0 scenario bonus exp)
-47 Level 2
-
 ## Gold Notes
 Current: 9G
-
-## Gold Notes History
-5G
-30G
--30G (initial items)
-4G
-4G
-10G
--20G
-6G
-
-= 9G after Scenario 4
-+ 0 scenario 5
-=9G
 
 ## Items
 * Boots of Stridling
@@ -56,6 +36,28 @@ Current: 9G
 - [ ] Ignore negative item effects and add one +1 card
 
 
-## Notes
+## Notes (checkmarks)
 XX
 
+
+-----
+
+## XP Notes History
+24+5 = 29
+29+14 = 43 (scenario 5)
+=43+4 (level 0 scenario bonus exp)
+47 Level 2
+
+## Gold Notes History
+5G
+30G
+-30G (initial items)
+4G
+4G
+10G
+-20G
+6G
+
+= 9G after Scenario 4
++ 0 scenario 5
+=9G
