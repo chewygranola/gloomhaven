@@ -13,3 +13,7 @@ Play History:
 12/25/22 - Scenario 4 Level 0 - Win
 
 1/1/23 - Scenario 5 Level 0 - Win
+
+Gloomhaven Rules: https://online.flippingbook.com/view/598058/
+
+Gloomahven Scenarios: https://online.flippingbook.com/view/145446/
