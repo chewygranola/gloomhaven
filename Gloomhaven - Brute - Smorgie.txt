@@ -26,19 +26,29 @@
 * Leather Armor
 
 ## Perks
-- [ ] Ignore negative item effects and add one +1 card
-- [ ] Add one +1 Shield 1, Self card
-- [ ] Remove two -1 cards
+- [x] Remove two -1 cards
 - [ ] Replace one -1 with one +1 card
-- [ ] Add one Stun card
-- [ ] Add one Stun card
-- [ ] Add one Disarm and one Muddle card
-- [ ] Add one Add Target card
-- [ ] Add one Add Target card
+
+- [ ] Add two +1 cards
+- [ ] Add two +1 cards
+
 - [ ] Add one +3 card
-- [ ] Add two +1 cards
-- [ ] Add two +1 cards
+
+- [ ] Add three Push 1 Cards
+- [ ] Add three Push 1 Cards
+
 - [ ] Add two Pierce 3 cards
+
+- [ ] Add one Stun card
+- [ ] Add one Stun card
+
+- [ ] Add one Disarm and one Muddle card
+
+- [ ] Add one Add Target card
+- [ ] Add one Add Target card
+- [ ] Add one +1 Shield 1, Self card
+- [ ] Ignore negative item effects and add one +1 card
+
 
 ## Notes
 XX
