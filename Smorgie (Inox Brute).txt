@@ -1,10 +1,10 @@
 # Smorgie Imbruglijorner
 
 ## XP Notes
-Current: 70 XP - Level 2
+Current: 81 XP - Level 2
 
 ## Gold Notes
-Current: 14G
+Current: 22G
 
 ## Items
 * Boots of Stridling
@@ -40,12 +40,44 @@ Current: 14G
 ## Notes (checkmarks)
 XXX
 
+X
+
+
 -----
-## XP Notes 1/10/2023
+## Notes 1/11/23
+
+### XP
+70
++5 in scenario
++6 XP Bonas Level 1 Scenario
+=81 XP 
+
+### Items
+* Boots of Stridling
+* Minor Heal Potion
+* Leather Armor
+* Second Skin
+
+### Gold
+14G
++8G
+=22G
+
+-----
+## Notes 1/10/2023
+
+### XP
 +5 XP (Town Event 06) - 52
 +12 XP scenario
 +6 XP Bonas Level 1 Scenario
 =70 XP Total
+
+### Items
+Second Skin from treasure chest
+
+### Gold
++5G scenario 6
+=14G
 
 -----
 
@@ -70,3 +102,12 @@ XXX
 =9G
 +5G scenario 6
 =14G
+
+-----
+## Notes
+
+### XP
+
+### Items
+
+### Gold
