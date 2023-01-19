@@ -1,16 +1,16 @@
 # Smorgie Imbruglijorner
 
 ## XP Notes
-Current: 81 XP - Level 2
+Current: 108 XP - Level 3
 
 ## Gold Notes
-Current: 22G
+Current: 7G
 
 ## Items
 * Boots of Stridling
 * Minor Heal Potion
 * Leather Armor
-* Second Skin
+* War Hammer
 
 ## Perks
 - [x] Remove two -1 cards
@@ -34,14 +34,31 @@ Current: 22G
 - [ ] Add one Add Target card
 - [ ] Add one Add Target card
 - [ ] Add one +1 Shield 1, Self card
-- [ ] Ignore negative item effects and add one +1 card
+- [X] Ignore negative item effects and add one +1 card
 
 
 ## Notes (checkmarks)
 XXX
 
-X
+XX
 
+-----
+## Notes 1/18/23
+
+### XP
+81 XP
++3 XP (Scenario 2 Makeup)
++16 XP (Scenario 19)
++8 XP (Bonus Level 2 Scenario)
+=108 XP
+
+### Items
+
+### Gold
+22G
++ 15G (selling Second Skin)
+-30 G (buy war hammer)
+=7G
 
 -----
 ## Notes 1/11/23
@@ -62,6 +79,9 @@ X
 14G
 +8G
 =22G
+
+
+
 
 -----
 ## Notes 1/10/2023
