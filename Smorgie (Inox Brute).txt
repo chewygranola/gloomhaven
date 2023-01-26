@@ -1,7 +1,7 @@
 # Smorgie Imbruglijorner
 
 ## XP Notes
-Current: 108 XP - Level 3
+Current: 128 XP - Level 3
 
 ## Gold Notes
 Current: 7G
@@ -19,7 +19,7 @@ Current: 7G
 - [ ] Add two +1 cards
 - [ ] Add two +1 cards
 
-- [ ] Add one +3 card
+- [X] Add one +3 card
 
 - [ ] Add three Push 1 Cards
 - [ ] Add three Push 1 Cards
@@ -40,7 +40,24 @@ Current: 7G
 ## Notes (checkmarks)
 XXX
 
-XX
+XXX
+
+-----
+## Notes 1/24/23
+
+### XP
++12XP earned
++8XP
+=128XP
+
+### Items
+no add
+
+### Gold
+-5G (city event)
+
+### checkmarks
+X
 
 -----
 ## Notes 1/18/23
