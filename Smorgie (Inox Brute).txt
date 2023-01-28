@@ -1,10 +1,10 @@
 # Smorgie Imbruglijorner
 
 ## XP Notes
-Current: 128 XP - Level 3
+Current: 148 XP - Level 3
 
 ## Gold Notes
-Current: 7G
+Current: 25G
 
 ## Items
 * Boots of Stridling
@@ -41,6 +41,27 @@ Current: 7G
 XXX
 
 XXX
+
+-----
+## Notes 1/28/23
+
+### XP
+128XP
++12XP earned
++8XP
+=148XP
+
+### Items
+no add
+
+### Gold
+7
++15G Scenario Reward
++3G
+=25G
+
+### checkmarks
+X
 
 -----
 ## Notes 1/24/23
