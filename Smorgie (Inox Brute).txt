@@ -1,10 +1,10 @@
 # Smorgie Imbruglijorner
 
 ## XP Notes
-Current: 166 XP - Level 4
+Current: 204 XP - Level 4
 
 ## Gold Notes
-Current: 11G
+Current: 26G
 
 ## Items
 * Iron Helmet
@@ -44,6 +44,64 @@ XXX
 
 XXX
 
+X
+
+-----
+2/1/23
+# Smorgie Imbruglijorner
+
+## XP Notes
+Current: 181 XP - Level 4
++15XP Earned
++8XP Bonus
+=204XP
+
+## Gold Notes
+Current: 4G
+-3G (City event)
++2G (Road Event)
++3G (Gold from Scenario)
++20G (Scenario 20 reward)
+
+## Items
+* Iron Helmet
+* Boots of Stridling
+* Minor Heal Potion
+* Leather Armor
+* War Hammer
+* Minor stamina potion
+
+## Perks
+- [x] Remove two -1 cards
+- [x] Replace one -1 with one +1 card
+
+- [ ] Add two +1 cards
+- [ ] Add two +1 cards
+
+- [X] Add one +3 card
+
+- [ ] Add three Push 1 Cards
+- [ ] Add three Push 1 Cards
+
+- [ ] Add two Pierce 3 cards
+
+- [ ] Add one Stun card
+- [ ] Add one Stun card
+
+- [ ] Add one Disarm and one Muddle card
+
+- [ ] Add one Add Target card
+- [ ] Add one Add Target card
+- [X] Add one +1 Shield 1, Self card
+- [X] Ignore negative item effects and add one +1 card
+
+
+## Notes (checkmarks)
+XXX
+
+XXX
+
+X
 
 -----
 1/31/23
@@ -57,6 +115,7 @@ Current: 166 XP - Level 4
 Current: 11G
 -10G donate to Sanctuary of Great Oak
 +3G Scenario
+=4G
 
 ## Items
 * Iron Helmet
