@@ -46,6 +46,57 @@ XXX
 
 
 -----
+1/31/23
+## XP Notes
+Current: 166 XP - Level 4
++7XP
++8XP
+181XP
+
+## Gold Notes
+Current: 11G
+-10G donate to Sanctuary of Great Oak
++3G Scenario
+
+## Items
+* Iron Helmet
+* Boots of Stridling
+* Minor Heal Potion
+* Leather Armor
+* War Hammer
+* Minor stamina potion
+
+## Perks
+- [x] Remove two -1 cards
+- [x] Replace one -1 with one +1 card
+
+- [ ] Add two +1 cards
+- [ ] Add two +1 cards
+
+- [X] Add one +3 card
+
+- [ ] Add three Push 1 Cards
+- [ ] Add three Push 1 Cards
+
+- [ ] Add two Pierce 3 cards
+
+- [ ] Add one Stun card
+- [ ] Add one Stun card
+
+- [ ] Add one Disarm and one Muddle card
+
+- [ ] Add one Add Target card
+- [ ] Add one Add Target card
+- [X] Add one +1 Shield 1, Self card
+- [X] Ignore negative item effects and add one +1 card
+
+
+## Notes (checkmarks)
+XXX
+
+XXX
+
+-----
 1/28/23
 ## XP Notes
 Current: 148 XP - Level 3
@@ -96,6 +147,8 @@ Current: 25G
 XXX
 
 XXX
+
+X
 
 -----
 ## Notes 1/28/23
