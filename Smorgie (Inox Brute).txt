@@ -44,11 +44,68 @@ XXX
 
 XXX
 
-X
+XX
+
+-----
+## XP Notes
+Current: 204 XP - Level 4
++6XP Scenario 52 Earned
++10XP Level 4 Scenario Bonus
+=220XP
++3XP (Road Event)
++10XP Level 4 scenario bonus (53)
+
+## Gold Notes
+Current: 26G
+-10G Donate
+-10G Donate
+-1G (City Event #2)
++6G (scenario 53 looted)
+=11G
+
+
+## Items
+* Iron Helmet
+* Boots of Stridling
+* Minor Heal Potion
+* Leather Armor
+* War Hammer
+* Minor stamina potion
+
+## Perks
+- [x] Remove two -1 cards
+- [x] Replace one -1 with one +1 card
+
+- [ ] Add two +1 cards
+- [ ] Add two +1 cards
+
+- [X] Add one +3 card
+
+- [ ] Add three Push 1 Cards
+- [ ] Add three Push 1 Cards
+
+- [ ] Add two Pierce 3 cards
+
+- [X] Add one Stun card
+- [ ] Add one Stun card
+
+- [ ] Add one Disarm and one Muddle card
+
+- [ ] Add one Add Target card
+- [ ] Add one Add Target card
+- [X] Add one +1 Shield 1, Self card
+- [X] Ignore negative item effects and add one +1 card
+
+
+## Notes (checkmarks)
+XXX
+
+XXX
+
+XX
 
 -----
 2/1/23
-# Smorgie Imbruglijorner
 
 ## XP Notes
 Current: 181 XP - Level 4
