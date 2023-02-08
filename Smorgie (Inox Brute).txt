@@ -1,10 +1,10 @@
 # Smorgie Imbruglijorner
 
 ## XP Notes
-Current: 204 XP - Level 4
+Current: 250 XP - Level 4
 
 ## Gold Notes
-Current: 26G
+Current: 6G
 
 ## Items
 * Iron Helmet
@@ -28,8 +28,8 @@ Current: 26G
 
 - [ ] Add two Pierce 3 cards
 
-- [ ] Add one Stun card
-- [ ] Add one Stun card
+- [X] Add one Stun card
+- [X] Add one Stun card
 
 - [ ] Add one Disarm and one Muddle card
 
@@ -44,7 +44,66 @@ XXX
 
 XXX
 
-XX
+XXX
+
+X
+
+-----
+2/7
+
+## XP Notes
+Current: 233 XP - Level 4
++10XP Level 3 Scenario Bonus
++7XP Earned Scenario 54
+250XP
+
+## Gold Notes
+Current: 11G
+-10G Donate
++5G (Road Event)
+=6G
+
+## Items
+* Iron Helmet
+* Boots of Stridling
+* Minor Heal Potion
+* Leather Armor
+* War Hammer
+* Minor stamina potion
+
+## Perks
+- [x] Remove two -1 cards
+- [x] Replace one -1 with one +1 card
+
+- [ ] Add two +1 cards
+- [ ] Add two +1 cards
+
+- [X] Add one +3 card
+
+- [ ] Add three Push 1 Cards
+- [ ] Add three Push 1 Cards
+
+- [ ] Add two Pierce 3 cards
+
+- [X] Add one Stun card
+- [X] Add one Stun card
+
+- [ ] Add one Disarm and one Muddle card
+
+- [ ] Add one Add Target card
+- [ ] Add one Add Target card
+- [X] Add one +1 Shield 1, Self card
+- [X] Ignore negative item effects and add one +1 card
+
+
+## Notes (checkmarks)
+XXX
+
+XXX
+
+XXX
+
+X
 
 -----
 ## XP Notes
@@ -54,11 +113,12 @@ Current: 204 XP - Level 4
 =220XP
 +3XP (Road Event)
 +10XP Level 4 scenario bonus (53)
+=233XP
 
 ## Gold Notes
 Current: 26G
--10G Donate
--10G Donate
+-10G Donate (before 52)
+-10G Donate (before 53)
 -1G (City Event #2)
 +6G (scenario 53 looted)
 =11G
