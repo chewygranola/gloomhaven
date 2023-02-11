@@ -14,6 +14,15 @@ Play History:
 
 1/1/23 - Scenario 5 Level 0 - Win
 
+...
+
+2/5/23 - Scenario 52 Level 3 - Win
+       - Scenario 53 Level 3 - Win
+
+2/7/23 - Scenario 54 Level 3 - Win
+
 Gloomhaven Rules: https://online.flippingbook.com/view/598058/
 
 Gloomahven Scenarios: https://online.flippingbook.com/view/145446/
+
+Monster Mover Reddit App Thread: https://www.reddit.com/r/Gloomhaven/comments/anaevw/monster_mover_scenarios/
