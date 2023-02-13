@@ -4,7 +4,7 @@
 Current: 296 XP - Level 6
 
 ## Gold Notes
-Current: 18G
+Current: 11G
 
 ## Items
 * Iron Helmet
@@ -57,7 +57,7 @@ XP:
 +13XP Scenario 43
 =296 XP
 
-Gold: 
+Gold: 18G 
 -10G Donate
 +3G (1 coin)
 =11G
@@ -78,7 +78,9 @@ XP:
 =273 XP
 
 Gold: 
+6G
 +12G (4 coins)
+=18G
 
 Notes:
 

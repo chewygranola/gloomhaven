@@ -21,6 +21,9 @@ Play History:
 
 2/7/23 - Scenario 54 Level 3 - Win
 
+2/12/23 - Scenario 18 Level 3 - Win
+          Scenario 43 Level 3 - Win
+
 Gloomhaven Rules: https://online.flippingbook.com/view/598058/
 
 Gloomahven Scenarios: https://online.flippingbook.com/view/145446/
