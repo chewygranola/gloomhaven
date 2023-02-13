@@ -14,7 +14,21 @@ Play History:
 
 1/1/23 - Scenario 5 Level 0 - Win
 
-...
+1/10 - Second Skin
+
+1/11 -
+
+1/18 - Scenario 19
+
+1/24 - 
+
+1/27 - Scenario 3 Win
+
+1/28 - Scenario 8 Win
+
+1/31 - 
+
+2/1 - Scenario 20
 
 2/5/23 - Scenario 52 Level 3 - Win
        - Scenario 53 Level 3 - Win
