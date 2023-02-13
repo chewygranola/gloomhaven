@@ -103,7 +103,7 @@ XXX
 
 XXX
 
-X
+X(have 3 or less cards left in hand/discard)
 
 -----
 ## XP Notes
