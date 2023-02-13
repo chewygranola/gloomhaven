@@ -1,10 +1,10 @@
 # Smorgie Imbruglijorner
 
 ## XP Notes
-Current: 250 XP - Level 4
+Current: 296 XP - Level 6
 
 ## Gold Notes
-Current: 6G
+Current: 18G
 
 ## Items
 * Iron Helmet
@@ -15,10 +15,10 @@ Current: 6G
 * Minor stamina potion
 
 ## Perks
-- [x] Remove two -1 cards
-- [x] Replace one -1 with one +1 card
+- [X] Remove two -1 cards
+- [X] Replace one -1 with one +1 card
 
-- [ ] Add two +1 cards
+- [X] Add two +1 cards
 - [ ] Add two +1 cards
 
 - [X] Add one +3 card
@@ -31,7 +31,7 @@ Current: 6G
 - [X] Add one Stun card
 - [X] Add one Stun card
 
-- [ ] Add one Disarm and one Muddle card
+- [X] Add one Disarm and one Muddle card
 
 - [ ] Add one Add Target card
 - [ ] Add one Add Target card
@@ -46,7 +46,44 @@ XXX
 
 XXX
 
-X
+XXX
+
+-----
+2/12
+
+XP:
+273 XP
++10XP Level 3 Scenario Bonus
++13XP Scenario 43
+=296 XP
+
+Gold: 
+-10G Donate
++3G (1 coin)
+=11G
+
+Notes:
+
+XXX XXX XXX XX
++ X
+
+
+
+-----
+2/12
+
+XP:
++10XP Level 3 Scenario Bonus
++13XP Scenario 18
+=273 XP
+
+Gold: 
++12G (4 coins)
+
+Notes:
+
+XXX XXX XXX X
++ X
 
 -----
 2/7
