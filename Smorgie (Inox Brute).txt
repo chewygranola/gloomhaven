@@ -366,7 +366,7 @@ XXX
 X
 
 -----
-## Notes 1/28/23
+## Notes 1/27/23
 
 ### XP
 128XP
@@ -379,7 +379,7 @@ no add
 
 ### Gold
 7
-+15G Scenario Reward
++15G Scenario 3 Reward
 +3G
 =25G
 
