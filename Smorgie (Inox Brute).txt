@@ -1,7 +1,7 @@
 # Smorgie Imbruglijorner
 
 ## XP Notes
-Current: 296 XP - Level 6
+Current: 342 XP - Level 6
 
 ## Gold Notes
 Current: 11G
@@ -47,6 +47,50 @@ XXX
 XXX
 
 XXX
+
+XX
+
+-----
+2/26
+XP: 325 XP
++7XP
++10XP Level 3 Scenario Bonus
+=342XP 
+
+Gold: 7G
++15G (5 coins)
+=22G
+
+Notes: XXX XXX XXX XXX X
+X (Loot Treasure Tile)
+
+-----
+2/26
+XP: 311 XP
++4XP
++10XP Level 3 Scenario Bonus
+
+Gold: 11G
+-10G Donate
++6G (2 coins)
+=7G
+
+Notes: XXX XXX XXX XXX
+X (Loot Treasure Tile)
+
+-----
+2/18
+XP: 296 XP
++5XP Scenario
++10XP Level 3 Scenario Bonus
+=311 XP
+
+Gold: 11G
+-10G Donate
++10G Scenario 26 Reward
+
+Notes: XXX XXX XXX XXX
+No Checks (didn't kill one or more elite monsters)
 
 -----
 2/12
