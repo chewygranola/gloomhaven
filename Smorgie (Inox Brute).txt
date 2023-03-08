@@ -4,7 +4,7 @@
 Current: 352 XP - Level 7
 
 ## Gold Notes
-Current: 2G
+Current: 4G
 
 ## Items
 * Iron Helmet
@@ -34,7 +34,7 @@ Current: 2G
 
 - [X] Add one Disarm and one Muddle card
 
-- [ ] Add one Add Target card
+- [X] Add one Add Target card
 - [ ] Add one Add Target card
 - [X] Add one +1 Shield 1, Self card
 - [X] Ignore negative item effects and add one +1 card
