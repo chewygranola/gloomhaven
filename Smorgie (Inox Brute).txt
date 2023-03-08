@@ -1,10 +1,10 @@
 # Smorgie Imbruglijorner
 
 ## XP Notes
-Current: 342 XP - Level 6
+Current: 352 XP - Level 7
 
 ## Gold Notes
-Current: 11G
+Current: 2G
 
 ## Items
 * Iron Helmet
@@ -13,6 +13,7 @@ Current: 11G
 * Leather Armor
 * War Hammer
 * Minor stamina potion
+* Moon Earring
 
 ## Perks
 - [X] Remove two -1 cards
@@ -49,6 +50,18 @@ XXX
 XXX
 
 XX
+
+-----
+3/1
+XP: 342XP 
++10XP
+=352XP
+
+Gold: 22G
+-18G (Moon Earring + 2G discount)
+
+Notes: XXX XXX XXX XXX XX
+
 
 -----
 2/26
