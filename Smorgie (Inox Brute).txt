@@ -1,10 +1,10 @@
 # Smorgie Imbruglijorner
 
 ## XP Notes
-Current: 352 XP - Level 7
+Current: 375 XP - Level 7
 
 ## Gold Notes
-Current: 4G
+Current: 9G
 
 ## Items
 * Iron Helmet
@@ -35,7 +35,7 @@ Current: 4G
 - [X] Add one Disarm and one Muddle card
 
 - [X] Add one Add Target card
-- [ ] Add one Add Target card
+- [X] Add one Add Target card
 - [X] Add one +1 Shield 1, Self card
 - [X] Ignore negative item effects and add one +1 card
 
@@ -49,7 +49,22 @@ XXX
 
 XXX
 
-XX
+XXX
+
+-----
+3/10
+XP: 352XP
++13XP
++10XP Level 3 Scenario Bonus
+375XP
+
+Gold: 4G
++2G (rat/rate city event)
++3G
+9G
+
+Notes: XXX XXX XXX XXX XX
+X
 
 -----
 3/1
