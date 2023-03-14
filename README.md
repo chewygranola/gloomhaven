@@ -42,7 +42,7 @@ Play History:
 
 3/1/23 - Scenario 22 Level 3 // Loss
 
-3/1/23 - Scenario 22 Level 3 // Win
+3/10/23 - Scenario 22 Level 3 // Win
 
 Gloomhaven Rules: https://online.flippingbook.com/view/598058/
 
