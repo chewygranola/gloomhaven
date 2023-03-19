@@ -14,7 +14,7 @@ Play History:
 
 1/1/23 - Scenario 5 Level 0 // Win
 
-1/10 - Second Skin
+1/10 - Scenario 6 // Win
 
 1/11 -
 
@@ -44,8 +44,12 @@ Play History:
 
 3/10/23 - Scenario 22 Level 3 // Win
 
+3/15/23 - Scenario 31 Level 3 // Win
+
 Gloomhaven Rules: https://online.flippingbook.com/view/598058/
 
 Gloomahven Scenarios: https://online.flippingbook.com/view/145446/
 
 Monster Mover Reddit App Thread: https://www.reddit.com/r/Gloomhaven/comments/anaevw/monster_mover_scenarios/
+
+Gloomhaven Storyline Link: https://docs.google.com/spreadsheets/d/16gjnYdc8cFrldA9XcR22YsoLuJmwXwdWUDov9plpaTE/edit?usp=sharing
