@@ -1,10 +1,10 @@
 # Smorgie Imbruglijorner
 
 ## XP Notes
-Current: 395 XP - Level 7
+Current: 415 XP - Level 7
 
 ## Gold Notes
-Current: 18G
+Current: 22G
 
 ## Items
 * Iron Helmet
@@ -50,6 +50,20 @@ XXX
 XXX
 
 XXX
+
+-----
+4/12
+XP: 395XP
++10XP Earned
++10XP Level 3 Scenario Bonus
+=415XP
+
+Gold: 18G
+-10G Donate
++2G City Event
++12G Conse from scenario
+=22G 
+
 
 -----
 3/15
