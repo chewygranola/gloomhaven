@@ -1,10 +1,10 @@
 # Smorgie Imbruglijorner
 
 ## XP Notes
-Current: 415 XP - Level 7
+Current: 441 XP - Level 8
 
 ## Gold Notes
-Current: 22G
+Current: 41G
 
 ## Items
 * Iron Helmet
@@ -27,7 +27,7 @@ Current: 22G
 - [ ] Add three Push 1 Cards
 - [ ] Add three Push 1 Cards
 
-- [ ] Add two Pierce 3 cards
+- [X] Add two Pierce 3 cards
 
 - [X] Add one Stun card
 - [X] Add one Stun card
@@ -50,6 +50,21 @@ XXX
 XXX
 
 XXX
+
+-----
+4/15
+XP: 415XP
++12XP Level 4 Scenario Bonus
++14XP Earned from Scenario 17
+=441XP Level 8
+
+
+Gold: 22G
+-10G Donate
++25G Scenario 17
++4G Coins from Scenario 17
+=41G
+
 
 -----
 4/12
