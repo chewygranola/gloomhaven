@@ -14,6 +14,8 @@ Current: 41G
 * War Hammer
 * Minor stamina potion
 * Moon Earring
+* Small Mana Potion
+=130G 
 
 ## Perks
 - [X] Remove two -1 cards
@@ -50,6 +52,35 @@ XXX
 XXX
 
 XXX
+
+X
+
+
+-----
+5/7
+XP: 463XP
++12XP Level 4 Scenario Bonus
++7XP Earned from Scenario 25
+=482XP
+
+Gold: 41G
+-10G Donate
+-10G Minor Mana Potion
++8G Coins from Scenario 25
+=29G
+
+-----
+5/7
+XP: 441XP
++12XP Level 4 Scenario Bonus
++10XP Earned from Scenario 47
+=463XP
+
+Gold: 41G
+-10G Donate
+-2G City Event 11 (5 collective gold)
++12G Coins from Scenario 47
+=41G
 
 -----
 4/15

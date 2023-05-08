@@ -50,6 +50,8 @@ Play History:
 
 4/15/23 - Scenario 17 Level 4 // Win
 
+5/7/23 - Scenario 47 Level 4 // Win, Scenario 25 Level 4 // Win
+
 Gloomhaven Rules: https://online.flippingbook.com/view/598058/
 
 Gloomahven Scenarios: https://online.flippingbook.com/view/145446/
