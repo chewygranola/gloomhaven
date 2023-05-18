@@ -1,10 +1,10 @@
 # Smorgie Imbruglijorner
 
 ## XP Notes
-Current: 441 XP - Level 8
+Current: 482 XP - Level 8
 
 ## Gold Notes
-Current: 41G
+Current: 29G
 
 ## Items
 * Iron Helmet
@@ -54,6 +54,9 @@ XXX
 XXX
 
 X
+
+5/12
+Donate = Fin
 
 
 -----

@@ -1,0 +1,88 @@
+# Wilkommen Sabonas
+
+## XP Notes
+Current: 165 XP - Level 4
+
+## Gold Notes
+Current: 4G
+
+## Items
+* Iron Helmet
+* Boots of Stridling
+* Tower Shield
+* Minor Stamina Potion
+
+
+## Perks
+- [X] Remove two -1 cards
+- [X] Remove two -1 cards
+- [X] Replace one +0 card with one +2 card
+- [ ] Replace one +0 card with one +2 card
+- [X] Remove four +0 cards
+- [X] Add one +0 Refresh an item card
+- [ ] Add one rolling +2 card
+- [ ] Add one rolling +2 card
+- [ ] Add one Stun card
+- [ ] Add one rolling Heal 3 card
+- [ ] Add one rolling Heal 3 card
+- [ ] Add two rolling Wound cards
+- [ ] Add two rolling Wound cards
+- [ ] Add one +1 Immobilize card
+- [ ] Add one +1 Immobilize card
+
+
+## Notes (checkmarks)
+XXX
+
+5/17
+
+XP 182XP
++8XP Level 2 Scenario
++10XP Earned
+=200XP
+
+Gold 45G
+-10G ( minor stamina )
++15G (5 tokens)
+=50G
+
+battlegoal
+
+-----
+
+5/17
+XP 165XP
++8XP Base
++9XP Earned
+182XP
+
+Gold 4G
++21G (7 tokens)
++20G (potion rip road event)
+=45G
+
+battlegoal
+
+-----
+
+5/12
+XP: 150XP starting
++8XP
++7XP
+=165 XP
+
+Gold: 75G 
+- 54G (item buying) 
+- 17G (item buying)
+=4G
+
+battlegoal
+
+-----
+## Notes
+
+### XP
+
+### Items
+
+### Gold
