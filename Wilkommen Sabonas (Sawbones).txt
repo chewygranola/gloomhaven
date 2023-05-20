@@ -1,10 +1,10 @@
 # Wilkommen Sabonas
 
 ## XP Notes
-Current: 165 XP - Level 4
+Current: 200 XP - Level 4
 
 ## Gold Notes
-Current: 4G
+Current: 50G
 
 ## Items
 * Iron Helmet
