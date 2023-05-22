@@ -56,6 +56,10 @@ Play History:
 
 5/17/23 - Scenario 1 Level 2 Redo // Win, Scenario 4 Level 2 Redo // Win
 
+5/19/23 - Scenario 38 Level 2 // Loss, Scenario 38 Level 2 // Loss
+
+5/21/23 - Scenario 38 Level 2 // Loss
+
 Gloomhaven Rules: https://online.flippingbook.com/view/598058/
 
 Gloomahven Scenarios: https://online.flippingbook.com/view/145446/

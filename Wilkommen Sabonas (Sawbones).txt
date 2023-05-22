@@ -1,10 +1,10 @@
 # Wilkommen Sabonas
 
 ## XP Notes
-Current: 200 XP - Level 4
+Current: 212 XP - Level 4
 
 ## Gold Notes
-Current: 50G
+Current: 59G
 
 ## Items
 * Iron Helmet
@@ -17,7 +17,7 @@ Current: 50G
 - [X] Remove two -1 cards
 - [X] Remove two -1 cards
 - [X] Replace one +0 card with one +2 card
-- [ ] Replace one +0 card with one +2 card
+- [X] Replace one +0 card with one +2 card
 - [X] Remove four +0 cards
 - [X] Add one +0 Refresh an item card
 - [ ] Add one rolling +2 card
@@ -33,6 +33,33 @@ Current: 50G
 
 ## Notes (checkmarks)
 XXX
+
+5/21
+XP 212XP
++9XP
+=221XP
+
+Gold 53G
++6G
+59G
+
+5/19
+XP 202XP
++10XP
+=212XP
+
+Gold 53G
++6G
+59G
+
+5/19
+XP 200XP
++2XP
+=202XP
+
+Gold 50G
++3G
+53G
 
 5/17
 
