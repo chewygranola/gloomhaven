@@ -62,8 +62,11 @@ Play History:
 
 Gloomhaven Rules: https://online.flippingbook.com/view/598058/
 
+Gloomhaven Rules (github): https://github.com/m-ender/gloomhaven-rules
+
 Gloomahven Scenarios: https://online.flippingbook.com/view/145446/
 
 Monster Mover Reddit App Thread: https://www.reddit.com/r/Gloomhaven/comments/anaevw/monster_mover_scenarios/
 
 Gloomhaven Storyline Link: https://docs.google.com/spreadsheets/d/16gjnYdc8cFrldA9XcR22YsoLuJmwXwdWUDov9plpaTE/edit?usp=sharing
+
