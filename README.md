@@ -60,6 +60,8 @@ Play History:
 
 5/21/23 - Scenario 38 Level 2 // Loss
 
+6/5/23 - Scenario 38 Level 2 // Win
+
 Gloomhaven Rules: https://online.flippingbook.com/view/598058/
 
 Gloomhaven Rules (github): https://github.com/m-ender/gloomhaven-rules
