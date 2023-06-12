@@ -1,16 +1,17 @@
 # Wilkommen Sabonas
 
 ## XP Notes
-Current: 221 XP - Level 4
+Current: 259 XP - Level 4
 
 ## Gold Notes
-Current: 59G
+Current: 69G
 
 ## Items
 * Iron Helmet
 * Boots of Stridling
 * Tower Shield
 * Minor Stamina Potion
+* Poison Dagger
 
 
 ## Perks
@@ -20,7 +21,7 @@ Current: 59G
 - [X] Replace one +0 card with one +2 card
 - [X] Remove four +0 cards
 - [X] Add one +0 Refresh an item card
-- [ ] Add one rolling +2 card
+- [X] Add one rolling +2 card
 - [ ] Add one rolling +2 card
 - [ ] Add one Stun card
 - [ ] Add one rolling Heal 3 card
@@ -33,6 +34,34 @@ Current: 59G
 
 ## Notes (checkmarks)
 XXX
+
+X
+
+-----
+
+6/11
+XP 259XP 
++8XP Earned
++8XP Scenario
+=275XP
+
+Gold 69G
+
+-----
+
+6/11
+XP 241XP 
++10XP Earned
++8XP Scenario
+=259XP
+
+Gold 54G
++15G (5 coins)
+=69G
+
+battlegoal
+
+-----
 
 6/5
 XP 221XP
@@ -47,6 +76,7 @@ Gold 59G
 
 battlegoal
 
+-----
 
 5/21
 XP 212XP
@@ -57,6 +87,8 @@ Gold 53G
 +6G
 59G
 
+-----
+
 5/19
 XP 202XP
 +10XP
@@ -66,6 +98,8 @@ Gold 53G
 +6G
 59G
 
+-----
+
 5/19
 XP 200XP
 +2XP
@@ -74,6 +108,8 @@ XP 200XP
 Gold 50G
 +3G
 53G
+
+-----
 
 5/17
 
