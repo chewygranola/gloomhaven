@@ -1,7 +1,7 @@
 # Wilkommen Sabonas
 
 ## XP Notes
-Current: 259 XP - Level 4
+Current: 275 XP - Level 5
 
 ## Gold Notes
 Current: 69G
@@ -36,6 +36,40 @@ Current: 69G
 XXX
 
 X
+
+-----
+7/5
+XP 294XP
++13XP Earned
+=307XP
+
+Gold 63 G
+
+-----
+7/4
+XP 289XP
++5XP Earned
+Scenario failed
+
+Gold 65G
+-5G City Event
++3G from 1 coin
+=63 G
+
+-----
+
+6/21
+XP 275XP 
++6XP Earned
++8XP Scenario
+=289XP
+
+Gold 69G
+-16G Cloak of Invisibility
++12G from 4 coins
+=65G
+
+battlegoal
 
 -----
 

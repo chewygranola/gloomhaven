@@ -64,6 +64,12 @@ Play History:
 
 6/11/23 - Scenario 44 Level 2 // Win, Scenario 48 Level 2 // Win
 
+6/22/23 - Scenario 32 Level 2 // Win
+
+7/4/23 - Scenario 33 Level 3 // Loss
+
+7/5/23 - Scenario 33 Level 3 // Loss
+
 Gloomhaven Rules: https://online.flippingbook.com/view/598058/
 
 Gloomhaven Rules (github): https://github.com/m-ender/gloomhaven-rules
