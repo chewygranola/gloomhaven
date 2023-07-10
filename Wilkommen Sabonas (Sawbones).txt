@@ -1,17 +1,19 @@
 # Wilkommen Sabonas
 
 ## XP Notes
-Current: 275 XP - Level 5
+Current: 359 XP - Level 7
 
 ## Gold Notes
-Current: 69G
+Current: 39G
 
 ## Items
 * Iron Helmet
 * Boots of Stridling
 * Tower Shield
 * Minor Stamina Potion
-* Poison Dagger
+* Major Stamina Potion
+* Steam Armor
+* Warhammer
 
 
 ## Perks
@@ -22,7 +24,7 @@ Current: 69G
 - [X] Remove four +0 cards
 - [X] Add one +0 Refresh an item card
 - [X] Add one rolling +2 card
-- [ ] Add one rolling +2 card
+- [X] Add one rolling +2 card
 - [ ] Add one Stun card
 - [ ] Add one rolling Heal 3 card
 - [ ] Add one rolling Heal 3 card
@@ -35,7 +37,45 @@ Current: 69G
 ## Notes (checkmarks)
 XXX
 
-X
+XX
+
+-----
+7/9
+XP 340XP
++9XP Earned
++10XP level 3 scenario
+=359XP
+
+Gold 33G
+-5G City Event Savvas
++6G 2 coins fron cenario
+=39G
+
+battlegoal
+
+-----
+7/9
+XP 315XP
++15XP earned
++10XP level 3 scenario
+= 340XP
+
+Gold 60G
++10G sell poison Dagger
+-26G Major Stam Potion
+-26G War Hammer
++15G 5 coins from scenario
+=33G
+
+-----
+7/7
+XP 307XP
++8XP Earned
+=315XP
+
+Gold 63G
+-3G Road Event
+=60G
 
 -----
 7/5
