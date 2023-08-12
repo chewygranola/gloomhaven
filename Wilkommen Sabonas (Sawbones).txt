@@ -1,10 +1,10 @@
 # Wilkommen Sabonas
 
 ## XP Notes
-Current: 359 XP - Level 7
+Current: 448 XP - Level 8
 
 ## Gold Notes
-Current: 39G
+Current: 27G
 
 ## Items
 * Iron Helmet
@@ -26,8 +26,8 @@ Current: 39G
 - [X] Add one rolling +2 card
 - [X] Add one rolling +2 card
 - [ ] Add one Stun card
-- [ ] Add one rolling Heal 3 card
-- [ ] Add one rolling Heal 3 card
+- [X] Add one rolling Heal 3 card
+- [X] Add one rolling Heal 3 card
 - [ ] Add two rolling Wound cards
 - [ ] Add two rolling Wound cards
 - [ ] Add one +1 Immobilize card
@@ -37,7 +37,60 @@ Current: 39G
 ## Notes (checkmarks)
 XXX
 
+XXX
+
 XX
+
+-----
+8/11
+
+XP 448XP
+
+Gold 90G
+-75G Jump on hamstring Lv2
++12G Gold from failed 
+=27G
+
+-----
+8/9
+XP 409XP
++4XP Earned
++10XP Level 3 Scenario
++25XP Scenario 62 Reward
+=448XP
+
+Gold 40G
+-10G Donate
++50G 
+=80G
+
+X X from scenario
+
+-----
+7/11
+XP 378XP
++9XP Earned
++12XP Level 4 Scenario
++10XP Scenario 62 Reward
+=409XP
+
+Gold 40G
+
+battlegoal
+battlegoal
+
+-----
+7/11
+XP 359XP
++7XP Earned
++12XP Level 4 scenario
+378XP
+
+Gold 39G
+-3G City
++4G from 1 coin
+
+battlegoal
 
 -----
 7/9
