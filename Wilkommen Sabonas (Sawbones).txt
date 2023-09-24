@@ -1,10 +1,10 @@
 # Wilkommen Sabonas
 
 ## XP Notes
-Current: 448 XP - Level 8
+Current: 469 XP - Level 8
 
 ## Gold Notes
-Current: 27G
+Current: 24G
 
 ## Items
 * Iron Helmet
@@ -40,6 +40,19 @@ XXX
 XXX
 
 XX
+
+-----
+9/20
+
+XP 448XP
++10XP
++11XP
+=469XO
+
+Gold 27G
+-3G
++0G 
+=24G
 
 -----
 8/11
