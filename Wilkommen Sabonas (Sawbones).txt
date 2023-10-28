@@ -25,7 +25,7 @@ Current: 24G
 - [X] Add one +0 Refresh an item card
 - [X] Add one rolling +2 card
 - [X] Add one rolling +2 card
-- [ ] Add one Stun card
+- [X] Add one Stun card
 - [X] Add one rolling Heal 3 card
 - [X] Add one rolling Heal 3 card
 - [ ] Add two rolling Wound cards
@@ -42,12 +42,25 @@ XXX
 XX
 
 -----
+10/4
+XP 469
++10XP
++9XP
++15XP
+=503XP
+
+Gold 27G
++18G (6 coins 3G)
+=45G
+
+
+-----
 9/20
 
 XP 448XP
 +10XP
 +11XP
-=469XO
+=469XP
 
 Gold 27G
 -3G
