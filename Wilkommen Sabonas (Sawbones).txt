@@ -4,7 +4,7 @@
 Current: 503 XP - Level 9
 
 ## Gold Notes
-Current: 45G
+Current: 55G
 
 ## Items
 * Iron Helmet
@@ -30,7 +30,7 @@ Current: 45G
 - [X] Add one rolling Heal 3 card
 - [ ] Add two rolling Wound cards
 - [ ] Add two rolling Wound cards
-- [ ] Add one +1 Immobilize card
+- [X] Add one +1 Immobilize card
 - [ ] Add one +1 Immobilize card
 
 
@@ -39,7 +39,24 @@ XXX
 
 XXX
 
-XX
+XXX
+
+-----
+11/20
+XP 503XP
+
+Gold 41G
+-10G Donate
++24G (6 coin)
+
+-----
+11/17
+XP 503XP
+
+Gold 37G
++4G (2 coins)
+
+battlegoal
 
 -----
 11/09
@@ -48,6 +65,7 @@ XP 503XP
 Gold 35G
 -10G Donate
 +12G 3 coins
+=37G
 
 
 -----
