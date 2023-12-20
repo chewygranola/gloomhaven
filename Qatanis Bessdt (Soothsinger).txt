@@ -1,0 +1,47 @@
+# Wilkommen Sabonas
+
+## XP Notes
+Current: 503 XP - Level 6
+
+## Gold Notes
+Current: 0G
+
+
+## Items
+
+
+
+## Perks
+- [X] Remove one -2 card
+- [X] Remove two -1 cards
+- [X] Remove two -1 cards
+- [X] Replace one -1 card with one +0 Stun card
+- [X] Replace two +1 cards with one +4 card
+- [X] Replace two +1 cards with one +4 card
+- [ ] Replace one +0 card with one +2 Poison card
+- [ ] Replace one +0 card with one +2 Wound card
+- [X] Replace one +0 card with one +3 Muddle card
+- [ ] Replace one +0 card with one +2 Curse card
+- [ ] Replace one +0 card with one +1 Disarm card
+- [ ] Replace one +0 card with one +1 Immobilize card
+- [ ] Add three rolling +1 cards
+- [ ] Add two rolling Curse cards
+- [ ] Add two rolling Curse cards
+
+
+
+## Notes (checkmarks)
+
+-----
+12/18
+XP X XP
+
+Gold 0G
+
+## Notes
+
+### XP
+
+### Items
+
+### Gold

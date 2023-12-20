@@ -94,6 +94,10 @@ Play History:
 
 11/20/23 - Scenario 59 Level 4 // Win
 
+12/12/23 - Scenario 60 Level 4 // Win
+
+12/18/23 - Scenario 22 Level 4 // Replay (fail)
+
 Gloomhaven Rules: https://online.flippingbook.com/view/598058/
 
 Gloomhaven Rules (github): https://github.com/m-ender/gloomhaven-rules

@@ -6,6 +6,7 @@ Current: 503 XP - Level 9
 ## Gold Notes
 Current: 55G
 
+
 ## Items
 * Iron Helmet
 * Boots of Stridling
@@ -40,6 +41,9 @@ XXX
 XXX
 
 XXX
+
+12/12
+Final Gold 55G + 260G items + 4G
 
 -----
 11/20
