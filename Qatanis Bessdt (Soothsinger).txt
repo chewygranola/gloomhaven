@@ -1,13 +1,33 @@
-# Wilkommen Sabonas
+# Qatanis Bessdt
 
 ## XP Notes
-Current: 503 XP - Level 6
+Current: 328XP - Level 6
 
 ## Gold Notes
-Current: 0G
+Current: 4G
 
 
 ## Items
+2
+* Iron Helmet
+* Amulet of Life
+
+2
+* Hide Armor
+* Leather Armor
+
+3
+* Heater Shield
+
+2
+* Comfortable Shoes
+* Winged Shoes
+
+* Minor Mana Potion
+* Minor Stamina Potion
+* Minor Healing Potion
+* Minor Power Potion
+
 
 
 
@@ -32,11 +52,45 @@ Current: 0G
 
 ## Notes (checkmarks)
 
+X
+
+-----
+01/24
+XP 320XP
++8XP earned
+=328XP
+
+Gold: 21G
+-17G Winged Shoes
+=4G
+
+-----
+12/27
+XP 299XP
++9XP earned scenario
++12XP Level 4 Scenario
+320XP
+
+Gold: 43G
+-17G Leather Armor
+-17G Amulet of Life
++12G (3 coins at Level 4)
+=21G
+
+X
+
 -----
 12/18
-XP X XP
+XP 275 XP
++12XP Scenario
++12XP Level 4 Scenario
+=299XP
 
-Gold 0G
+Gold: 105G
+-89G (items bought)
+-5G (City event cragheart)
++32G (8 coins Level 4 scenario)
+=43G
 
 ## Notes
 

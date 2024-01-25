@@ -96,7 +96,11 @@ Play History:
 
 12/12/23 - Scenario 60 Level 4 // Win
 
-12/18/23 - Scenario 22 Level 4 // Replay (fail)
+12/18/23 - Scenario 22 Level 4 // Replay for Lifegoal (fail)
+
+12/27/23 - Scenario 46 Level 4 // Win
+
+1/24/24 - Scenario 72 // Loss
 
 Gloomhaven Rules: https://online.flippingbook.com/view/598058/
 
